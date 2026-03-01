@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
+  <!-- Ears -->
+  <path d="M7 3 L4 13 L13 11 Z" fill="#e07020"/>
+  <path d="M25 3 L28 13 L19 11 Z" fill="#e07020"/>
+  <path d="M7.8 6 L6 12 L12 10.5 Z" fill="#f5a060"/>
+  <path d="M24.2 6 L26 12 L20 10.5 Z" fill="#f5a060"/>
+  <!-- Head -->
+  <ellipse cx="16" cy="15.5" rx="11" ry="9.5" fill="#e07020"/>
+  <!-- Muzzle -->
+  <ellipse cx="16" cy="19" rx="6.5" ry="5" fill="#fff5eb"/>
+  <!-- Eyes -->
+  <circle cx="11.5" cy="14.5" r="2" fill="#1a1a1a"/>
+  <circle cx="20.5" cy="14.5" r="2" fill="#1a1a1a"/>
+  <circle cx="12.2" cy="13.8" r="0.7" fill="white"/>
+  <circle cx="21.2" cy="13.8" r="0.7" fill="white"/>
+  <!-- Nose -->
+  <ellipse cx="16" cy="17.5" rx="1.8" ry="1.2" fill="#1a1a1a"/>
+  <!-- Smile -->
+  <path d="M14 19 Q16 21.5 18 19" stroke="#c06020" stroke-width="0.8" fill="none" stroke-linecap="round"/>
+  <!-- Shield -->
+  <path d="M2 20 L2 25 Q2 29 6.5 30.5 Q11 29 11 25 L11 20 Z" fill="#d06018" stroke="#a04810" stroke-width="0.7"/>
+  <line x1="6.5" y1="21" x2="6.5" y2="28" stroke="#fff5eb" stroke-width="1" opacity="0.6"/>
+  <line x1="3.5" y1="24.5" x2="9.5" y2="24.5" stroke="#fff5eb" stroke-width="1" opacity="0.6"/>
+  <!-- Sword blade -->
+  <path d="M24 11 L27 25" stroke="#b0b0b0" stroke-width="1.8" stroke-linecap="round"/>
+  <path d="M24.5 12 L26.8 23" stroke="#d8d8d8" stroke-width="0.6" stroke-linecap="round"/>
+  <!-- Sword guard -->
+  <line x1="23" y1="24" x2="28" y2="23" stroke="#c06020" stroke-width="1.5" stroke-linecap="round"/>
+  <!-- Sword handle -->
+  <path d="M25.5 25.5 L26.5 29" stroke="#a05010" stroke-width="2" stroke-linecap="round"/>
+  <circle cx="26.8" cy="29.5" r="1" fill="#c06020"/>
+</svg>
