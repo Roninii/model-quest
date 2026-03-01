@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="docs/screenshots/hero-light.png" alt="Model Quest — Find the right AI model for every task" width="800" />
+  <img src="docs/screenshots/hero-light.jpg" alt="Model Quest — Find the right AI model for every task" width="800" />
 </p>
 
 # Model Quest
@@ -30,7 +30,7 @@ Six practical categories with curated rankings and scored comparisons:
 Each category includes ranked model scores and real example responses you can tab through to compare how Claude, GPT-5.2, Gemini, DeepSeek, and Grok handle the same prompt.
 
 <p align="center">
-  <img src="docs/screenshots/rankings-light.png" alt="Model rankings with scored bars for each AI model" width="800" />
+  <img src="docs/screenshots/rankings-light.jpg" alt="Model rankings with scored bars for each AI model" width="800" />
 </p>
 
 ### Real Example Responses
@@ -38,7 +38,7 @@ Each category includes ranked model scores and real example responses you can ta
 Every benchmark category includes curated prompts with actual model outputs. Tab between models to see how each one approaches the same task — no cherry-picking, no synthetic scores.
 
 <p align="center">
-  <img src="docs/screenshots/examples-light.png" alt="Side-by-side example responses from different AI models" width="800" />
+  <img src="docs/screenshots/examples-light.jpg" alt="Side-by-side example responses from different AI models" width="800" />
 </p>
 
 ### Interactive Playground
@@ -54,11 +54,11 @@ A practical guide to choosing between small, medium, and frontier models. Includ
 - **"Good Enough" Calculator** — Select a task and priority to get a personalized tier recommendation
 
 <p align="center">
-  <img src="docs/screenshots/picker-dark.png" alt="Model Picker page showing cost-quality spectrum across model tiers" width="800" />
+  <img src="docs/screenshots/picker-dark.jpg" alt="Model Picker page showing cost-quality spectrum across model tiers" width="800" />
 </p>
 
 <p align="center">
-  <img src="docs/screenshots/picker-tasks-dark.png" alt="Task decision matrix and the Good Enough Calculator" width="800" />
+  <img src="docs/screenshots/picker-tasks-dark.jpg" alt="Task decision matrix and the Good Enough Calculator" width="800" />
 </p>
 
 ### Light & Dark Themes
@@ -66,7 +66,7 @@ A practical guide to choosing between small, medium, and frontier models. Includ
 Full light and dark mode support with a warm, fox-orange design system. Automatically respects system preference with a manual toggle.
 
 <p align="center">
-  <img src="docs/screenshots/hero-dark.png" alt="Model Quest in dark mode" width="800" />
+  <img src="docs/screenshots/hero-dark.jpg" alt="Model Quest in dark mode" width="800" />
 </p>
 
 ## Models Covered
